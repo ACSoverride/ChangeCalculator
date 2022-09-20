@@ -1,5 +1,24 @@
 #include <iostream>
 #include <cmath>
+//Author: Matthew Shapiro
+//Class : CSI 140-01
+// Assignment : Change Calculator Lab
+// Date Assigned : 9/4/22
+// Due Date : Due - 9/18/22 11:59
+// Description :
+//A brief description of the purpose of the program. A program to sort an amount of money into the least amount of hard cash possible
+// Certification of Authenticity :
+//I certify that this is entirely my own work, except where I have given fully documented
+// references to the work of others.I understand the definition and
+// consequences of plagiarism and acknowledge that the assessor of this assignment
+// may, for the purpose of assessing this assignment :
+// -Reproduce this assignment and provide a copy to another member of
+// academic staff; and / or
+// - Communicate a copy of this assignment to a plagiarism checking service
+// (which may then retain a copy of this assignment on its database for
+// the purpose of future plagiarism checking)
+//FYI VERY IMPORTANT: As a firm believer in the open source software movement, and for version history features this project is publicly
+//available on my github ACSOverride. If your plagiarism checker fires off because of that I can prove that I am the owner of that github account/repo.
 using namespace std;
 int main() {
     int theNum;
