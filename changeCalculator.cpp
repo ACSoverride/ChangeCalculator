@@ -14,11 +14,11 @@ int main() {
     int the5 = floor((theNum-the100*(100)-the50*50-the25*25-the10*10)/5);
     int the1 = floor((theNum-the100*(100)-the50*50-the25*25-the10*10-the5*5)/1);
     //outputting everything
-    cout << "$100 Bill(s) " << the100;
-    cout << "\n$50 Bill(s) " << the50;
-    cout << "\n$25 Bill(s) " << the25;
-    cout << "\n$10 Bill(s) " << the10;
-    cout << "\n$5 Bill(s) " << the5;
-    cout << "\n$1 Bill(s) " << the1;
+    cout << "$100 Bill(s): " << the100;
+    cout << "\n$50 Bill(s): " << the50;
+    cout << "\n$25 Bill(s): " << the25;
+    cout << "\n$10 Bill(s): " << the10;
+    cout << "\n$5 Bill(s): " << the5;
+    cout << "\n$1 Bill(s): " << the1;
     return 0;
 }
