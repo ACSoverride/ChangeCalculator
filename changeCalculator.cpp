@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cmath>
-//Author: Matthew Shapiro
 //Class : CSI 140-01
 // Assignment : Change Calculator Lab
 // Date Assigned : 9/4/22
